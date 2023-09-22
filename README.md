@@ -51,4 +51,56 @@ API：Canvas使用2D绘图API，而WebGL使用底层的3D图形API。
 
 -------------------------------------------------------------------
 
+## WebGL 简介
 
+- 什么是 WebGL
+- 为什么学习 WebGL
+- WebGL 的优势
+- 学习前置条件
+- WebGL 程序结构
+- WebGl 开源框架
+
+### 2.1 什么是 WebGL
+
+- WebGL 是一种`3D绘图协议`，衍生于 OpenGL ES2.0，可以结合HTML5 和 Javascript 在网页上绘制和渲染二/三维图形
+
+### 2.2 为什么学习 WebGL
+
+- 数据可视化
+- 图形/游戏引擎
+- 交互演示、图形渲染
+- 地图
+- VR
+- 物品展示/室内设计
+- 城市规划
+- 想象力还很丰富...
+
+### 2.3 WebGL 的优势
+
+- 内嵌浏览器，不需要安装任何插件或环境即可运行
+- 只需要一个文本编辑器和浏览器，就可以编写三维图形程序
+
+### 2.4 前置条件
+
+- 文本编辑器
+- 浏览器
+- HTML 和 JS 基础
+
+
+### 2.5 程序结构
+
+<img src="./imgs/WebGL 程序结构.png">
+
+
+> GLSL ES (着色器程序) 是以`字符串`的形式存在 JS 中
+
+### 2.6 WebGL 开源框架
+
+- Three.js : JavaScript 3D WebGL 库
+- Babylon.js : Web3D 图形引擎
+- KickJS : Web 的开源图形和游戏引擎
+- ClayGL : 构建可扩展的 Web3D 应用程序
+- PlayCanvas : 网络游戏和3D图形引擎
+- WebGLStudio.js 和 Litescene.js : 开源Web3D 图形编辑器和创建器
+- Luma : Uber 的 3D WebGL 可视化库
+- A-Frame : 用于构建 VR 的 Web 框架
